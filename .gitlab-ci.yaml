@@ -1,0 +1,27 @@
+stages:
+  - docker
+
+dockerize:
+  stage: docker
+  image: docker:19.03.12
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" registry.homenet.pessimisttech.com
+  script:
+    - docker build -t registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA .
+    - docker push registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA
+  except:
+    - main
+
+
+dockerize-main:
+  stage: docker
+  image: docker:19.03.12
+  before_script:
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" registry.homenet.pessimisttech.com
+  script:
+    - docker build -t registry.homenet.pessimisttech.com/homenet/cuttingboard:latest .
+    - docker push registry.homenet.pessimisttech.com/homenet/cuttingboard:latest
+    - docker tag registry.homenet.pessimisttech.com/homenet/cuttingboard:latest registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA
+    - docker push registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA
+  only:
+    - main
