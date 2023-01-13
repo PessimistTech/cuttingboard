@@ -1,0 +1,17 @@
+baseURL = 'http://cuttingboard.homenet.pessimisttech.com/'
+languageCode = 'en-us'
+title = 'Cutting Board'
+theme = 'learn'
+
+[Params]
+  disableMermaid = true
+  custom_css = ["css/custom.css"]
+  themeVariant = 'blue'
+
+[Params.Breadcrumb]
+  enable = true # Enable breadcrumb block globally
+  homeText = "Cutting Board" # Home node text
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
