@@ -1,6 +1,11 @@
-FROM klakegg/hugo as builder
+FROM bitnami/git as init
 WORKDIR /app
 COPY . .
+RUN git submodule update --init
+
+FROM klakegg/hugo as builder
+WORKDIR /app
+COPY --from=init /app .
 RUN hugo
 
 FROM nginx
