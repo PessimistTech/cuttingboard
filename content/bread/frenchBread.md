@@ -11,7 +11,7 @@ chapter: true
 # French Bread
 *Yields: 2 loaves | Cook Time: 30min | Prep Time: 2hr 30min*
 
-## Ingredients
+## Ingredients:
 
 - 2 1/4 C warm water
 - 2 Tbsp sugar
@@ -20,7 +20,7 @@ chapter: true
 - 2 Tbsp olive oil (or any other oil)
 - 5 1/2 - 6 C all-purpose or bread flour
 
-## Instructions
+## Instructions:
 
 1. In the bowl of an electric stand mixer fitted with the dough hook, combine the water sugar and yeast. Let sit for 3-5 min, until foamy. (No need to let sit if using instant yeast)
 2. Add salt, oil, 3 cups of flour and mix. Add the rest of the flour gradually until the dough clears the sides of the bowl and forms a soft ball 
