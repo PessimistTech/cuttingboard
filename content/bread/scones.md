@@ -1,5 +1,9 @@
 ---
 title: "Scones"
+categories: 
+    - "bread"
+tags:
+    - "bread"
 chapter: true
 ---
 # Scones 

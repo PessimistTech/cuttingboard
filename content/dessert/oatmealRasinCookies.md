@@ -1,5 +1,9 @@
 ---
 title: "Oatmeal Rasin Cookies"
+categories:
+    - "dessert"
+tags: 
+    - "cookies"
 chapter: true
 ---
 # Oatmeal Raisin Cookies

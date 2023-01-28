@@ -1,5 +1,7 @@
 ---
 title: "Blondies"
+categories:
+    - "dessert"
 chapter: true
 ---
 

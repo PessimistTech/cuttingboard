@@ -1,6 +1,10 @@
 ---
 title: "Artisan Bread"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
 ---
 # Artisan Bread 
 Yield: 3 Loaves

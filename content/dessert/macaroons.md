@@ -1,5 +1,9 @@
 ---
 title: "Macaroons"
+categories:
+    - "dessert"
+tags: 
+    - "cookies"
 chapter: true
 ---
 # Macaroons

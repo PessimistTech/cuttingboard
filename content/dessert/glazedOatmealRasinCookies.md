@@ -1,5 +1,9 @@
 ---
 title: "Glazed Oatmeal Rasin Cookies"
+categories:
+    - "dessert"
+tags: 
+    - "cookies"
 chapter: true
 ---
 # Glazed Oatmeal Raisin Cookies

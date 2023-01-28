@@ -1,5 +1,9 @@
 ---
 title: "Creamy Potato Soup"
+categories:
+    - "entres"
+tags:
+    - "soup"
 chapter: true
 ---
 # Creamy Potato Soup 

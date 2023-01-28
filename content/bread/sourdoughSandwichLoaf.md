@@ -1,5 +1,9 @@
 ---
 title: "Sourdough Sandwich Loaf"
+categories: 
+    - "bread"
+tags:
+    - "bread"
 chapter: true
 ---
 # Sourdough Sandwich Loaf 

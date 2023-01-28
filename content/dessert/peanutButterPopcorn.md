@@ -1,5 +1,7 @@
 ---
 title: "Peanut Butter Popcorn"
+categories:
+    - "dessert"
 chapter: true
 ---
 # Peanut Butter Popcorn

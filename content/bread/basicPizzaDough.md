@@ -1,6 +1,11 @@
 ---
 title: "Basic Pizza Dough"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
+    - "pizza"
 ---
 
 # Basic Pizza Dough

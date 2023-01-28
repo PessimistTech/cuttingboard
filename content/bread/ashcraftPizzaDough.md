@@ -1,6 +1,11 @@
 ---
 title: "Ashcraft Pizza Dough"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
+    - "pizza"
 ---
 # Ashcraft Pizza Dough
 

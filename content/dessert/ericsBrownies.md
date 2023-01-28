@@ -1,5 +1,7 @@
 ---
 title: "Eric's Brownies"
+categories:
+    - "dessert"
 chapter: true
 ---
 # Erics Brownies

@@ -1,6 +1,10 @@
 ---
 title: "English Muffin Bread"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
 ---
 
 # English Muffin Bread

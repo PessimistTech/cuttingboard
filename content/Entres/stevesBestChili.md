@@ -1,5 +1,9 @@
 ---
 title: "Steves Best Chili"
+categories:
+    - "entres"
+tags:
+    - "soup"
 chapter: true
 ---
 # Steve's Best Chili

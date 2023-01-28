@@ -1,5 +1,10 @@
 ---
 title: "Sourdough Pizza"
+categories: 
+    - "bread"
+tags:
+    - "bread"
+    - "pizza"
 chapter: true
 ---
 # Sourdough Pizza
