@@ -1,5 +1,7 @@
 ---
 title: "Soft and Chewy Gingerbread Bars"
+categories:
+    - "dessert"
 chapter: true
 ---
 # Soft and Chewy Gingerbread bars with Cream Cheese Frosting

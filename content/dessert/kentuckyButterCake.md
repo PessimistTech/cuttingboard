@@ -1,5 +1,9 @@
 ---
 title: "Kentucky Butter Cake"
+categories:
+    - "dessert"
+tags: 
+    - "cake"
 chapter: true
 ---
 # Kentucky Butter Cake

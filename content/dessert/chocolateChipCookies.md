@@ -1,5 +1,9 @@
 ---
 title: "Chocolate Chip Cookies"
+categories:
+    - "dessert"
+tags: 
+    - "cookies"
 chapter: true
 ---
 

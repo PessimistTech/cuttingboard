@@ -1,5 +1,9 @@
 ---
 title: "Monkey Bread Rolls"
+categories: 
+    - "bread"
+tags:
+    - "bread"
 chapter: true
 ---
 # Monkey Bread Rolls 

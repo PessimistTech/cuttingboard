@@ -1,5 +1,7 @@
 ---
 title: "Chicken Taquitos"
+categories:
+    - "entres"
 chapter: true
 ---
 

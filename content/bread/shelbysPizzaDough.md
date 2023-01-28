@@ -1,5 +1,10 @@
 ---
 title: "Shelby's Pizza Dough"
+categories: 
+    - "bread"
+tags:
+    - "bread"
+    - "pizza"
 chapter: true
 ---
 # Shelby’s Pizza Dough

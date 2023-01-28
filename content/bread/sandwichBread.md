@@ -1,5 +1,9 @@
 ---
 title: "Sandwich Bread"
+categories: 
+    - "bread"
+tags:
+    - "bread"
 chapter: true
 ---
 # Sandwich Bread

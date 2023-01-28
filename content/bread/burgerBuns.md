@@ -1,6 +1,10 @@
 ---
 title: "Burger Buns"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
 ---
 
 # Burger Buns 

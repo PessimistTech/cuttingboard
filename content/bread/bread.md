@@ -1,6 +1,10 @@
 ---
 title: "Bread"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
 ---
 
 # Bread 

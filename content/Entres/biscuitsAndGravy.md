@@ -1,5 +1,7 @@
 ---
 title: "Biscuits and Gravy"
+categories:
+    - "entres"
 chapter: true
 ---
 

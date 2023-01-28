@@ -1,6 +1,10 @@
 ---
 title: "Bagel Bread"
 chapter: true
+categories: 
+    - "bread"
+tags:
+    - "bread"
 ---
 # Bagel Bread
 *Yield: 2 loaves | Total Time: 2-3h*

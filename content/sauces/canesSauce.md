@@ -1,5 +1,9 @@
 ---
 title: "Canes Sauce"
+categories:
+    - "sauces"
+tags:
+    - "soup"
 chapter: true
 ---
 
