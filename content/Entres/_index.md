@@ -2,7 +2,7 @@
 title: "Entres"
 chapter: true
 ---
-Comfort Food
+Entres
 ============
 
 Collection of the best entres

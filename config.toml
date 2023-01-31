@@ -1,4 +1,4 @@
-baseURL = 'http://cuttingboard.homenet.pessimisttech.com/'
+baseURL = 'https://cuttingboard.pessimisttech.com/'
 languageCode = 'en-us'
 title = 'Cutting Board'
 theme = 'learn'
