@@ -11,7 +11,7 @@ chapter: true
 
 ## Ingredients:
 
-#### Soup
+#### Soup:
 
 - 1 lb ground beef
 - 1 large onion (diced)
