@@ -11,6 +11,8 @@ chapter: true
 
 ## Ingredients:
 
+#### Soup
+
 - 1 lb ground beef
 - 1 large onion (diced)
 - 2 (or more) cloves garlic
@@ -24,7 +26,7 @@ chapter: true
 - 1/2 cup sour cream
 - 8 oz grated cheese
 
-### Toppings:
+#### Toppings:
 
 - lettuce (chopped)
 - tomato (diced)
@@ -35,13 +37,13 @@ chapter: true
 
 ## Instructions:
 
-Hamburger bun croutons:
+#### Hamburger bun croutons:
 
 1. Cut a few hamburger buns into cubes
 2. drizzle with oil, and sprinkle with garlic salt
 3. bake at 400 degrees 5-10 min (until toasty)
 
-### Soup:
+#### Soup:
 
 1. In a large pot, cook onion and ground beef over medium heat stirring often.
 2. add garlic and cook for another minute.
