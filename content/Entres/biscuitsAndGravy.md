@@ -2,6 +2,8 @@
 title: "Biscuits and Gravy"
 categories:
     - "entres"
+tags:
+    - "biscuits"
 chapter: true
 ---
 
