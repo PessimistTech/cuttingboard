@@ -1,5 +1,5 @@
 ---
-title: "Cinammon Butter"
+title: "Cinnamon Butter"
 categories:
     - "sauces"
 tags: 
