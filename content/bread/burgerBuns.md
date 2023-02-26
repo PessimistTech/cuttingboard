@@ -28,7 +28,9 @@ tags:
 - 1 whole egg*
 - 1 egg yolk*
 - 3 TB (42g) unsalted butter (softened)
-- Egg wash
+
+### Egg wash
+
 - 1 whole egg
 - Splash of milk
 
