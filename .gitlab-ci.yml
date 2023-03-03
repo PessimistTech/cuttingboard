@@ -1,5 +1,6 @@
 stages:
   - docker
+  - auto-mr
 
 dockerize:
   stage: docker
@@ -23,5 +24,31 @@ dockerize-main:
     - docker push registry.homenet.pessimisttech.com/homenet/cuttingboard:latest
     - docker tag registry.homenet.pessimisttech.com/homenet/cuttingboard:latest registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA
     - docker push registry.homenet.pessimisttech.com/homenet/cuttingboard:$CI_COMMIT_SHORT_SHA
+  only:
+    - main
+
+pulumi-update:
+  stage: auto-mr
+  image: registry.homenet.pessimisttech.com/homenet/images/runner:latest
+  script:
+    - git config --global url.https://dummy:$ACCESS_TOKEN@gitlab.homenet.pessimisttech.com.insteadOf https://gitlab.homenet.pessimisttech.com
+    - git config --global user.email "dummy@pessimisttech.com"
+    - git config --global user.name "dummy"
+    - |
+      BRANCH="cuttingboard-update-$CI_COMMIT_SHORT_SHA"
+      git clone https://gitlab.homenet.pessimisttech.com/homenet/pulumi-cuttingboard.git
+      cd pulumi-cuttingboard
+      git submodule update --init --recursive
+      git checkout -b $BRANCH
+      cd cuttingboard
+      git fetch --all
+      git checkout $CI_COMMIT_SHORT_SHA
+      cd ..
+      git add .
+      git commit -m "update cutting board to $CI_COMMIT_SHORT_SHA"
+      git push origin $BRANCH
+      echo "{\"source_branch\":\"$BRANCH\", \"target_branch\":\"main\", \"title\":\"update cuttingboard to $CI_COMMIT_SHORT_SHA\"}" > body.json
+      cat body.json
+      curl -X POST -H "PRIVATE-TOKEN: $ACCESS_TOKEN" -H "Content-type: application/json" https://gitlab.homenet.pessimisttech.com/api/v4/projects/23/merge_requests -d "@body.json"
   only:
     - main
