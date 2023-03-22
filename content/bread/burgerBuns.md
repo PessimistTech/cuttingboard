@@ -5,6 +5,7 @@ categories:
     - "bread"
 tags:
     - "bread"
+    - "buns"
 ---
 
 # Burger Buns 

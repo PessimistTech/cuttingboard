@@ -2,6 +2,9 @@
 title: "Peanut Butter Popcorn"
 categories:
     - "dessert"
+tags: 
+    - "snacks"
+    - "dessert"
 chapter: true
 ---
 # Peanut Butter Popcorn

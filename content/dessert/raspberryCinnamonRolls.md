@@ -2,6 +2,8 @@
 title: "Raspberry Cream Cheese Cinnamon Rolls"
 categories:
     - "dessert"
+tags: 
+    - "dessert"
 chapter: true
 ---
 # Raspberry Cream Cheese Cinnamon Rolls

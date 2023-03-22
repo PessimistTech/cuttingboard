@@ -4,6 +4,7 @@ categories:
     - "dessert"
 tags: 
     - "cookies"
+    - "dessert"
 chapter: true
 ---
 # Glazed Oatmeal Raisin Cookies

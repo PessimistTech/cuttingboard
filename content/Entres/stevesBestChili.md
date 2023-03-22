@@ -4,6 +4,7 @@ categories:
     - "entres"
 tags:
     - "soup"
+    - "entres"
 chapter: true
 ---
 # Steve's Best Chili

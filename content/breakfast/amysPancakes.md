@@ -2,6 +2,8 @@
 title: "Amy's Pancakes"
 categories:
     - "breakfast"
+tags: 
+    - "pancakes"
 chapter: true
 ---
 # Amy’s Pancakes

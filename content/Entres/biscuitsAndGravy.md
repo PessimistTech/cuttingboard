@@ -4,6 +4,7 @@ categories:
     - "entres"
 tags:
     - "biscuits"
+    - "entres"
 chapter: true
 ---
 

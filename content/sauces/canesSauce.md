@@ -3,7 +3,7 @@ title: "Canes Sauce"
 categories:
     - "sauces"
 tags:
-    - "soup"
+    - "sauce"
 chapter: true
 ---
 

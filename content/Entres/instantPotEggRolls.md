@@ -2,6 +2,8 @@
 title: "Instant Pot Egg Roll Bowls"
 categories:
     - "entres"
+tags:
+    - "entres"
 chapter: true
 ---
 # Instant Pot Egg Roll Bowls

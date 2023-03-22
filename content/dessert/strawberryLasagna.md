@@ -2,6 +2,8 @@
 title: "Strawberry Lasagna"
 categories:
     - "dessert"
+tags: 
+    - "dessert"
 chapter: true
 ---
 # Strawberry Lasagna

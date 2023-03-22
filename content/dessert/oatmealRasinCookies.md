@@ -4,6 +4,7 @@ categories:
     - "dessert"
 tags: 
     - "cookies"
+    - "dessert"
 chapter: true
 ---
 # Oatmeal Raisin Cookies

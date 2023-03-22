@@ -2,6 +2,9 @@
 title: "Blondies"
 categories:
     - "dessert"
+tags: 
+    - "cookies"
+    - "dessert"
 chapter: true
 ---
 

@@ -5,6 +5,7 @@ categories:
     - "entres"
 tags:
     - "soup"
+    - "entres"
 chapter: true
 ---
 # Cheeseburger Soup

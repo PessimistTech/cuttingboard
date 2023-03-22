@@ -42,5 +42,5 @@ oven.
 
 {{% notice note %}}
 This recipe is a "sourdough discard" recipe - so it's based on using unfed sourdough starter that
-you accumulate when you're building a sourdough starter or when you feed it ready to bake.
+you accumulate when you're feeding a sourdough starter.
 {{% /notice %}}

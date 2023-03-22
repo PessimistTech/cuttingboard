@@ -2,6 +2,9 @@
 title: "Eric's Brownies"
 categories:
     - "dessert"
+tags: 
+    - "brownies"
+    - "dessert"
 chapter: true
 ---
 # Erics Brownies

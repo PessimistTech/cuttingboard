@@ -4,6 +4,7 @@ categories:
     - "dessert"
 tags: 
     - "cake"
+    - "dessert"
 chapter: true
 ---
 # Kentucky Butter Cake

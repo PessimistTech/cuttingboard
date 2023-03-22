@@ -4,6 +4,7 @@ categories:
     - "entres"
 tags:
     - "soup"
+    - "entres"
 chapter: true
 ---
 # Creamy Potato Soup 

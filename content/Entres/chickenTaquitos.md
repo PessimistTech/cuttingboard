@@ -2,6 +2,10 @@
 title: "Chicken Taquitos"
 categories:
     - "entres"
+tags:
+    - "mexican"
+    - "entres"
+    - "chicken"
 chapter: true
 ---
 
