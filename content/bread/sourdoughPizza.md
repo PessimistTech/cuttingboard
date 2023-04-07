@@ -5,6 +5,7 @@ categories:
 tags:
     - "bread"
     - "pizza"
+    - "sourdough"
 chapter: true
 ---
 # Sourdough Pizza

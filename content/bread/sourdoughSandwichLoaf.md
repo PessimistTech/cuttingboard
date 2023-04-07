@@ -4,6 +4,7 @@ categories:
     - "bread"
 tags:
     - "bread"
+    - "sourdough"
 chapter: true
 ---
 # Sourdough Sandwich Loaf 

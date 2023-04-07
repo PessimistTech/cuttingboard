@@ -4,6 +4,7 @@ chapter: true
 categories:
     - "breakfast"
 tags:
+    - "breakfast"
     - "pancakes"
 ---
 # German Pancakes
