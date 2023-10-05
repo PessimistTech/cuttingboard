@@ -40,3 +40,7 @@ This allows prevents the sour cream from hardening the butter, and create a smoo
 {{% notice note %}}
 This dough is very soft and sticky. Rolling out is easier with a coating of flour, only doing a portion of the dough at a time.
 {{% /notice %}}
+
+{{% notice note %}}
+If you make your cookies thinner they may need less time in the oven.
+{{% /notice %}}
