@@ -18,7 +18,7 @@ chapter: true
 - Yeast 6g
 - Flour 400g (bread or all purpose)
 - Honey 10g
-- Olvie Oil 20g
+- Olive Oil 20g
 - Salt 8g
 
 #### Baking:
