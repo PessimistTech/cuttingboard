@@ -1,9 +1,9 @@
-FROM bitnami/git as init
+FROM bitnami/git AS init
 WORKDIR /app
 COPY . .
 RUN git submodule update --init
 
-FROM klakegg/hugo as builder
+FROM klakegg/hugo AS builder
 WORKDIR /app
 COPY --from=init /app .
 RUN hugo
