@@ -22,7 +22,7 @@ chapter: true
 - 4 (8 oz) packages cream cheese
 - 1 1/4 C granulated sugar
 - 1/2 C sour cream
-- 2 tsp vanilla extract
+- seeds of 2-4 vanilla beans (or 2 tsp vanilla extract)
 - 5 large eggs
 
 #### Topping:
@@ -65,4 +65,8 @@ The crust can be doubled if desired (personal recommendation)
 
 {{% notice note %}} 
 If preferred the cream cheese can be omitted from the topping for a standard whipped cream topping
+{{% /notice %}}
+
+{{% notice note %}} 
+If you want more vanilla flavor you can add more vanilla beans to the cheesecake, or also include a splash of vanilla extract along side the seeds
 {{% /notice %}}
